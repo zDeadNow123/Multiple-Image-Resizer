@@ -1,0 +1,14 @@
+{
+  "name": "mir",
+  "version": "1.0.0",
+  "description": "Resize Multiple Images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ExadriusRyldro",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.27.2"
+  }
+}
